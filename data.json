@@ -1,0 +1,54 @@
+{
+  "insan_imparatorlugu": {
+      "piyadeler": {
+          "saldiri": 10,
+          "savunma": 8,
+          "saglik": 100,
+          "kritik_sans": 5
+      },
+      "okcular": {
+          "saldiri": 7,
+          "savunma": 5,
+          "saglik": 80,
+          "kritik_sans": 10
+      },
+      "suvariler": {
+          "saldiri": 12,
+          "savunma": 10,
+          "saglik": 120,
+          "kritik_sans": 3
+      },
+      "kusatma_makineleri": {
+          "saldiri": 20,
+          "savunma": 15,
+          "saglik": 150,
+          "kritik_sans": 0
+      }
+  },
+  "ork_legi": {
+      "ork_dovusculeri": {
+          "saldiri": 15,
+          "savunma": 10,
+          "saglik": 110,
+          "kritik_sans": 4
+      },
+      "mizrakcilar": {
+          "saldiri": 12,
+          "savunma": 12,
+          "saglik": 50,
+          "kritik_sans": 6
+      },
+      "varg_binicileri": {
+          "saldiri": 18,
+          "savunma": 14,
+          "saglik": 130,
+          "kritik_sans": 7
+      },
+      "troller": {
+          "saldiri": 25,
+          "savunma": 20,
+          "saglik": 200,
+          "kritik_sans": 2
+      }
+  }
+}

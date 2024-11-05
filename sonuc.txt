@@ -1,0 +1,324 @@
+
+Tur: 1
+Insanlar saldiriyor...
+25 Tane ork_dovusculeri oldu ---- 
+ork_dovusculeri biriminin yeni sagligi: 83.41
+18 Tane mizrakcilar oldu ---- 
+mizrakcilar biriminin yeni sagligi: 76.72
+14 Tane varg_binicileri oldu ---- 
+varg_binicileri biriminin yeni sagligi: 106.77
+8 Tane troller oldu ---- 
+troller biriminin yeni sagligi: 166.81
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 2
+Orklar saldiriyor...
+23 Tane piyadeler oldu ---- 
+piyadeler biriminin yeni sagligi: 88.39
+11 Tane okcular oldu ---- 
+okcular biriminin yeni sagligi: 74.19
+7 Tane suvariler oldu ---- 
+suvariler biriminin yeni sagligi: 111.29
+1 Tane kusatma_makineleri oldu ---- 
+kusatma_makineleri biriminin yeni sagligi: 135.48
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 3
+Insanlar saldiriyor...
+25 Tane ork_dovusculeri oldu ---- 
+ork_dovusculeri biriminin yeni sagligi: 66.81
+18 Tane mizrakcilar oldu ---- 
+mizrakcilar biriminin yeni sagligi: 63.45
+14 Tane varg_binicileri oldu ---- 
+varg_binicileri biriminin yeni sagligi: 83.54
+8 Tane troller oldu ---- 
+troller biriminin yeni sagligi: 133.62
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 4
+Orklar saldiriyor...
+23 Tane piyadeler oldu ---- 
+piyadeler biriminin yeni sagligi: 76.77
+11 Tane okcular oldu ---- 
+okcular biriminin yeni sagligi: 68.39
+7 Tane suvariler oldu ---- 
+suvariler biriminin yeni sagligi: 102.58
+1 Tane kusatma_makineleri oldu ---- 
+kusatma_makineleri biriminin yeni sagligi: 120.97
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 5
+YORGUNLUK ETKISI--TUM BIRIMLERIN SALDIRI VE SAVUNMA GUCU YUZDE 10 DUSUYOR...
+Insanlar saldiriyor...
+22 Tane ork_dovusculeri oldu ---- 
+ork_dovusculeri biriminin yeni sagligi: 52.07
+16 Tane mizrakcilar oldu ---- 
+mizrakcilar biriminin yeni sagligi: 51.39
+13 Tane varg_binicileri oldu ---- 
+varg_binicileri biriminin yeni sagligi: 62.76
+8 Tane troller oldu ---- 
+troller biriminin yeni sagligi: 103.46
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 6
+Orklar saldiriyor...
+21 Tane piyadeler oldu ---- 
+piyadeler biriminin yeni sagligi: 66.32
+10 Tane okcular oldu ---- 
+okcular biriminin yeni sagligi: 63.16
+7 Tane suvariler oldu ---- 
+suvariler biriminin yeni sagligi: 94.63
+1 Tane kusatma_makineleri oldu ---- 
+kusatma_makineleri biriminin yeni sagligi: 107.79
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 7
+Insanlar saldiriyor...
+22 Tane ork_dovusculeri oldu ---- 
+ork_dovusculeri biriminin yeni sagligi: 37.32
+16 Tane mizrakcilar oldu ---- 
+mizrakcilar biriminin yeni sagligi: 39.32
+13 Tane varg_binicileri oldu ---- 
+varg_binicileri biriminin yeni sagligi: 41.98
+8 Tane troller oldu ---- 
+troller biriminin yeni sagligi: 73.30
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 8
+Orklar saldiriyor...
+21 Tane piyadeler oldu ---- 
+piyadeler biriminin yeni sagligi: 55.88
+10 Tane okcular oldu ---- 
+okcular biriminin yeni sagligi: 57.94
+7 Tane suvariler oldu ---- 
+suvariler biriminin yeni sagligi: 86.68
+1 Tane kusatma_makineleri oldu ---- 
+kusatma_makineleri biriminin yeni sagligi: 94.62
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 9
+Insanlar saldiriyor...
+22 Tane ork_dovusculeri oldu ---- 
+ork_dovusculeri biriminin yeni sagligi: 22.57
+16 Tane mizrakcilar oldu ---- 
+mizrakcilar biriminin yeni sagligi: 27.26
+13 Tane varg_binicileri oldu ---- 
+varg_binicileri biriminin yeni sagligi: 21.20
+8 Tane troller oldu ---- 
+troller biriminin yeni sagligi: 43.14
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 10
+YORGUNLUK ETKISI--TUM BIRIMLERIN SALDIRI VE SAVUNMA GUCU YUZDE 10 DUSUYOR...
+Orklar saldiriyor...
+17 Tane piyadeler oldu ---- 
+piyadeler biriminin yeni sagligi: 47.47
+9 Tane okcular oldu ---- 
+okcular biriminin yeni sagligi: 53.22
+5 Tane suvariler oldu ---- 
+suvariler biriminin yeni sagligi: 80.33
+1 Tane kusatma_makineleri oldu ---- 
+kusatma_makineleri biriminin yeni sagligi: 83.96
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 11
+Insanlar saldiriyor...
+20 Tane ork_dovusculeri oldu ---- 
+ork_dovusculeri biriminin yeni sagligi: 9.23
+15 Tane mizrakcilar oldu ---- 
+mizrakcilar biriminin yeni sagligi: 16.02
+12 Tane varg_binicileri oldu ---- 
+varg_binicileri biriminin yeni sagligi: 2.25
+7 Tane troller oldu ---- 
+troller biriminin yeni sagligi: 15.05
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 12
+Orklar saldiriyor...
+20 Tane piyadeler oldu ---- 
+piyadeler biriminin yeni sagligi: 37.57
+9 Tane okcular oldu ---- 
+okcular biriminin yeni sagligi: 48.39
+6 Tane suvariler oldu ---- 
+suvariler biriminin yeni sagligi: 72.84
+1 Tane kusatma_makineleri oldu ---- 
+kusatma_makineleri biriminin yeni sagligi: 71.40
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 150
+Mızrakcilar: 120
+Varg Binicileri: 80
+Troller: 50
+
+Tur: 13
+Insanlar saldiriyor...
+ork_dovusculeri birimi tamamen yok oldu!
+15 Tane mizrakcilar oldu ---- 
+mizrakcilar biriminin yeni sagligi: 4.79
+varg_binicileri birimi tamamen yok oldu!
+troller birimi tamamen yok oldu!
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 0
+Mızrakcilar: 120
+Varg Binicileri: 0
+Troller: 0
+
+Tur: 14
+Orklar saldiriyor...
+0 Tane piyadeler oldu ---- 
+piyadeler biriminin yeni sagligi: 37.57
+0 Tane okcular oldu ---- 
+okcular biriminin yeni sagligi: 48.39
+0 Tane suvariler oldu ---- 
+suvariler biriminin yeni sagligi: 72.84
+0 Tane kusatma_makineleri oldu ---- 
+kusatma_makineleri biriminin yeni sagligi: 71.40
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 0
+Mızrakcilar: 120
+Varg Binicileri: 0
+Troller: 0
+
+Tur: 15
+YORGUNLUK ETKISI--TUM BIRIMLERIN SALDIRI VE SAVUNMA GUCU YUZDE 10 DUSUYOR...
+Insanlar saldiriyor...
+mizrakcilar birimi tamamen yok oldu!
+İnsan İmparatorluğu Birlikleri:
+Piyadeler: 200
+Okçular: 150
+Süvariler: 100
+Kuşatma Makineleri: 10
+
+Ork Lejyonu Birlikleri:
+ Ork Dovusculeri: 0
+Mızrakcilar: 0
+Varg Binicileri: 0
+Troller: 0
+Insanlar kazandi!
